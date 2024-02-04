@@ -36,7 +36,7 @@ Dragon Repeller is a text-based RPG game implemented in HTML and JavaScript. In 
 
 ## Credits
 
-- Game Design and Implementation: [Your Name]
+- Game Design and Implementation: Vishal
 - Inspired by classic RPG mechanics and text-based adventure games.
 
 Feel free to modify, share, or contribute to the game's code. Enjoy your journey in Dragon Repeller! 🐉✨
